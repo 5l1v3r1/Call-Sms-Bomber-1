@@ -8,6 +8,8 @@ Twitter: https://twitter.com/ShekharSumanPro
 
 install Call-Sms-Bomber
 
+pkg install git
+
 git clone https://github.com/ShekharSumanPro/Call-Sms-Bomber.git
 
 ls
