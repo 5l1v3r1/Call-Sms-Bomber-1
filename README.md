@@ -1,16 +1,10 @@
 # Call-Sms-Bomber
 
-Programmer: Suvadip Kar
+Programmer: Shekhar Suman
 
-Website: Suvadipkar.com
+Facebook: https://www.facebook.com/ssumanpro
 
-Facebook: http://facebook.com/suvadip.kar.96
-
-Twitter: https://twitter.com/KarSuvadip
-
-Bugcrowd: https://bugcrowd.com/Suvadipkar
-
-Video Link: https://youtu.be/VCkZzqTRmgs
+Twitter: https://twitter.com/ShekharSumanPro
 
 Rules:
 1. Dont use this tool to dos anyone.
