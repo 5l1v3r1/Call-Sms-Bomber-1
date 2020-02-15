@@ -9,11 +9,17 @@ Twitter: https://twitter.com/ShekharSumanPro
 install Call-Sms-Bomber
 
 git clone https://github.com/ShekharSumanPro/Call-Sms-Bomber.git
+
 ls
+
 cd Call-Sms-Bomber
+
 ls
+
 chmod +x lulsms.sh
+
 ls
+
 ./lulsms.sh
 
 Rules:
